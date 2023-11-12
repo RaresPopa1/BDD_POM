@@ -1,3 +1,3 @@
-curs introductiv QA automat
-bdd behavior driven devlopment
-pom page object model
+Site tested: https://demoqa.com/ \
+Design pattern used: page object model \
+Methodology: behavior driven development
