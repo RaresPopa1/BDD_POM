@@ -1,0 +1,7 @@
+py -n pip install -U selenium
+sau fara py -n
+pip install behave
+pip install behave-html-formatter
+
+run test
+behave -f html -o behave-report.html --tags=smoke
